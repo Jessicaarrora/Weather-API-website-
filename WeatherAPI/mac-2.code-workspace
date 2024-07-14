@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads/mac-2"
+		},
+		{
+			"path": "../../Downloads/All port linked 2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Calculator"
+	}
+}
